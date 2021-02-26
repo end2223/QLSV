@@ -7,8 +7,8 @@ class lib_dbconnection {
         echo "Da vao day";
     }
 
-    protected $user = "caongocson";
-    protected $password = "a";
+    protected $user = "root";
+    protected $password = "";
     protected $host = "localhost:3307";
     protected $database = "quanlysinhvien";
     protected $tableName;
